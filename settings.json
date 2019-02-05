@@ -1,0 +1,13 @@
+{
+    "telemetry.enableCrashReporter": false,
+    "telemetry.enableTelemetry": false,
+    "workbench.startupEditor": "newUntitledFile",
+    "editor.fontSize": 16,
+    "editor.tabCompletion": "on",
+    "editor.tabSize": 2,
+    "workbench.iconTheme": "vscode-icons",
+    "editor.scrollBeyondLastLine": false,
+    "editor.smoothScrolling": true,
+    "editor.wordWrap": "on",
+    "vim.startInInsertMode": true
+}

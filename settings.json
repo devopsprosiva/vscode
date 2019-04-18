@@ -1,13 +1,21 @@
 {
-    "telemetry.enableCrashReporter": false,
-    "telemetry.enableTelemetry": false,
     "workbench.startupEditor": "newUntitledFile",
-    "editor.fontSize": 16,
-    "editor.tabCompletion": "on",
     "editor.tabSize": 2,
-    "workbench.iconTheme": "vscode-icons",
+    "editor.tabCompletion": "on",
+    "window.nativeTabs": true,
+    "editor.minimap.enabled": false,
+    "editor.fontSize": 16,
+    "atomKeymap.promptV3Features": true,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.formatOnPaste": true,
+    "terminal.external.osxExec": "iTerm.app",
+    "terminal.integrated.cursorBlinking": true,
+    "terminal.integrated.scrollback": 10000,
+    "editor.fontFamily": "Menlo, Monaco, 'Courier New', monospace, PowerlineSymbols",
+    "explorer.confirmDragAndDrop": false,
     "editor.scrollBeyondLastLine": false,
-    "editor.smoothScrolling": true,
     "editor.wordWrap": "on",
-    "vim.startInInsertMode": true
+    "git.confirmSync": false,
+    "git.enableSmartCommit": true,
+    "window.zoomLevel": 0
 }
